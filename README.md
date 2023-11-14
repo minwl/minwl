@@ -1,7 +1,10 @@
 # ***Data Scientist***
-Hi! 
-I'm a passionate Data Scientist driven by curiosity and a love for problem-solving. \
+
+```
+Hi!
+I'm a passionate Data Scientist driven by curiosity and a love for problem-solving.
 Let's explore and connect the dots together!
+```
 
 ## **👩🏻‍💻 About Me**
 - Passionate about transforming complex data into actionable insights
@@ -30,5 +33,3 @@ Let's explore and connect the dots together!
 ## **📣 Connect**
 - For more info and contact, please check out my [📋 Resume]() and [📂 Portfolio]().
 
-
--->
