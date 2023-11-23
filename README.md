@@ -31,5 +31,5 @@ Let's explore and connect the dots together!
 - Mechanical Engineering Project Manager, POSCO, 2016 - 2022
 
 ## **📣 Connect**
-- For more info and contact, please check out my [📋 Resume]() and [📂 Portfolio]().
+- For more info and contact, please check out my [📋 Resume](https://minwl.github.io/resume.html) and [📂 Portfolio](https://minwl.github.io/portfolio.html).
 
